@@ -10,3 +10,5 @@ https://github.com/Sidra20870/Canva/tree/main/ElectionFlyer
 https://github.com/Sidra20870/Canva/tree/main/FeedbackForm
 https://github.com/Sidra20870/Canva/tree/main/JuiceAdvertize
 https://github.com/Sidra20870/Canva/tree/main/OnlineAcademy
+https://github.com/Sidra20870/Canva/tree/main/LiveDaraz
+https://github.com/Sidra20870/Canva/tree/main/QuizCompetitionFlyer
